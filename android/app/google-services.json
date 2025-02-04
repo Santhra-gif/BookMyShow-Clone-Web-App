@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "951801310821",
+    "project_id": "bookmyshow-568b3",
+    "storage_bucket": "bookmyshow-568b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951801310821:android:460680395affd1f97be08c",
+        "android_client_info": {
+          "package_name": "com.example.bookms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951801310821-d3chmspk4nkp3lsn2oc54ag1klr3sfon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE_J2Ni-xEVLm2OzEnTJPaHouTreGU2-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951801310821-d3chmspk4nkp3lsn2oc54ag1klr3sfon.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "951801310821-c17lb7h8njj6fq51nog03pjicfpm9g8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookmysht"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951801310821:android:a3cbe5433ba854fe7be08c",
+        "android_client_info": {
+          "package_name": "com.example.bookmysht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951801310821-d3chmspk4nkp3lsn2oc54ag1klr3sfon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE_J2Ni-xEVLm2OzEnTJPaHouTreGU2-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951801310821-d3chmspk4nkp3lsn2oc54ag1klr3sfon.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "951801310821-c17lb7h8njj6fq51nog03pjicfpm9g8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookmysht"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
