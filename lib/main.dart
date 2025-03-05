@@ -4,7 +4,11 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'auth_screen.dart';
 import 'home_screen.dart';
+<<<<<<< HEAD
 import 'firebase_options.dart'; 
+=======
+import 'firebase_options.dart';
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -23,7 +27,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+<<<<<<< HEAD
       title: 'Movie Booking',
+=======
+      title: '',
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
       theme: ThemeData(
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,

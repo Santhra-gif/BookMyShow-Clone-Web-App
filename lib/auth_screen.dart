@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
@@ -12,7 +15,11 @@ class _AuthScreenState extends State<AuthScreen> {
   final _auth = FirebaseAuth.instance;
   final _googleSignIn = GoogleSignIn(
     clientId:
+<<<<<<< HEAD
         '951801310821-d3chmspk4nkp3lsn2oc54ag1klr3sfon.apps.googleusercontent.com', // Replace with your actual client ID
+=======
+        '117587654364-5t94v01vcrbggn5kar9gqlutrrnjqmk6.apps.googleusercontent.com', // Replace with your actual client ID
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
     scopes: ['email', 'profile'],
   );
   final _formKey = GlobalKey<FormState>();
@@ -74,7 +81,11 @@ class _AuthScreenState extends State<AuthScreen> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
+<<<<<<< HEAD
                   'BookmyShow',
+=======
+                  'Movie Booking',
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
                   style: Theme.of(context).textTheme.headlineMedium?.copyWith(
                         fontWeight: FontWeight.bold,
                         color: Colors.blue,
@@ -166,4 +177,8 @@ class _AuthScreenState extends State<AuthScreen> {
       ),
     );
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)

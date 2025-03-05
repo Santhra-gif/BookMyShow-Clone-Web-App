@@ -1,12 +1,19 @@
 {
   "project_info": {
+<<<<<<< HEAD
     "project_number": "951801310821",
     "project_id": "bookmyshow-568b3",
     "storage_bucket": "bookmyshow-568b3.firebasestorage.app"
+=======
+    "project_number": "117587654364",
+    "project_id": "bookmysh-9798e",
+    "storage_bucket": "bookmysh-9798e.firebasestorage.app"
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
   },
   "client": [
     {
       "client_info": {
+<<<<<<< HEAD
         "mobilesdk_app_id": "1:951801310821:android:460680395affd1f97be08c",
         "android_client_info": {
           "package_name": "com.example.bookms"
@@ -44,10 +51,14 @@
     {
       "client_info": {
         "mobilesdk_app_id": "1:951801310821:android:a3cbe5433ba854fe7be08c",
+=======
+        "mobilesdk_app_id": "1:117587654364:android:0daa88d297b1f808c9a619",
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
         "android_client_info": {
           "package_name": "com.example.bookmysht"
         }
       },
+<<<<<<< HEAD
       "oauth_client": [
         {
           "client_id": "951801310821-d3chmspk4nkp3lsn2oc54ag1klr3sfon.apps.googleusercontent.com",
@@ -57,10 +68,17 @@
       "api_key": [
         {
           "current_key": "AIzaSyAE_J2Ni-xEVLm2OzEnTJPaHouTreGU2-c"
+=======
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCurLKaes-ayeoK3racF5SrlvPv8k0z-Zs"
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
         }
       ],
       "services": {
         "appinvite_service": {
+<<<<<<< HEAD
           "other_platform_oauth_client": [
             {
               "client_id": "951801310821-d3chmspk4nkp3lsn2oc54ag1klr3sfon.apps.googleusercontent.com",
@@ -74,6 +92,9 @@
               }
             }
           ]
+=======
+          "other_platform_oauth_client": []
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
         }
       }
     }

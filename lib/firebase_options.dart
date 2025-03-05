@@ -41,6 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
+<<<<<<< HEAD
     apiKey: 'AIzaSyDeVwV6FwlSCTJ63kw8phQ9oMh_1KXLFJM',
     appId: '1:951801310821:web:04cd3b01ac9fead77be08c',
     messagingSenderId: '951801310821',
@@ -65,20 +66,54 @@ class DefaultFirebaseOptions {
     projectId: 'bookmyshow-568b3',
     storageBucket: 'bookmyshow-568b3.firebasestorage.app',
     iosClientId: '951801310821-c17lb7h8njj6fq51nog03pjicfpm9g8k.apps.googleusercontent.com',
+=======
+    apiKey: 'AIzaSyDkNMu5Uae3MHMwVoHnEVEWIltcg4bW9SE',
+    appId: '1:117587654364:web:c88ca30514c487a2c9a619',
+    messagingSenderId: '117587654364',
+    projectId: 'bookmysh-9798e',
+    authDomain: 'bookmysh-9798e.firebaseapp.com',
+    storageBucket: 'bookmysh-9798e.firebasestorage.app',
+    measurementId: 'G-YMZEZ7CJLD',
+  );
+
+  static const FirebaseOptions android = FirebaseOptions(
+    apiKey: 'AIzaSyCurLKaes-ayeoK3racF5SrlvPv8k0z-Zs',
+    appId: '1:117587654364:android:0daa88d297b1f808c9a619',
+    messagingSenderId: '117587654364',
+    projectId: 'bookmysh-9798e',
+    storageBucket: 'bookmysh-9798e.firebasestorage.app',
+  );
+
+  static const FirebaseOptions ios = FirebaseOptions(
+    apiKey: 'AIzaSyBpH5aPSJttepx3VQ_qOpRxt4lJbpnyA-A',
+    appId: '1:117587654364:ios:927c25aba71202fdc9a619',
+    messagingSenderId: '117587654364',
+    projectId: 'bookmysh-9798e',
+    storageBucket: 'bookmysh-9798e.firebasestorage.app',
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
     iosBundleId: 'com.example.bookmysht',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
+<<<<<<< HEAD
     apiKey: 'AIzaSyBLcAIxCY4SbuKof-dlfnO21J3iRKHavMQ',
     appId: '1:951801310821:ios:c6062871a3a417577be08c',
     messagingSenderId: '951801310821',
     projectId: 'bookmyshow-568b3',
     storageBucket: 'bookmyshow-568b3.firebasestorage.app',
     iosClientId: '951801310821-c17lb7h8njj6fq51nog03pjicfpm9g8k.apps.googleusercontent.com',
+=======
+    apiKey: 'AIzaSyBpH5aPSJttepx3VQ_qOpRxt4lJbpnyA-A',
+    appId: '1:117587654364:ios:927c25aba71202fdc9a619',
+    messagingSenderId: '117587654364',
+    projectId: 'bookmysh-9798e',
+    storageBucket: 'bookmysh-9798e.firebasestorage.app',
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
     iosBundleId: 'com.example.bookmysht',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
+<<<<<<< HEAD
     apiKey: 'AIzaSyDeVwV6FwlSCTJ63kw8phQ9oMh_1KXLFJM',
     appId: '1:951801310821:web:ee624d82cdb9e7c97be08c',
     messagingSenderId: '951801310821',
@@ -89,3 +124,14 @@ class DefaultFirebaseOptions {
   );
 
 }
+=======
+    apiKey: 'AIzaSyDkNMu5Uae3MHMwVoHnEVEWIltcg4bW9SE',
+    appId: '1:117587654364:web:1a07a7cc8a1bbee6c9a619',
+    messagingSenderId: '117587654364',
+    projectId: 'bookmysh-9798e',
+    authDomain: 'bookmysh-9798e.firebaseapp.com',
+    storageBucket: 'bookmysh-9798e.firebasestorage.app',
+    measurementId: 'G-Y2NHVCP3TL',
+  );
+}
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)

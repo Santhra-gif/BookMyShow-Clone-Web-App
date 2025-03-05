@@ -4,6 +4,10 @@
 
 list(APPEND FLUTTER_PLUGIN_LIST
   cloud_firestore
+<<<<<<< HEAD
+=======
+  connectivity_plus
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
   firebase_auth
   firebase_core
   geolocator_windows

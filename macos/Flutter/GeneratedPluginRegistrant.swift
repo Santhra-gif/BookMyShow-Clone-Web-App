@@ -6,6 +6,10 @@ import FlutterMacOS
 import Foundation
 
 import cloud_firestore
+<<<<<<< HEAD
+=======
+import connectivity_plus
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
 import firebase_auth
 import firebase_core
 import geolocator_apple
@@ -16,6 +20,10 @@ import sqflite_darwin
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
   FLTFirebaseFirestorePlugin.register(with: registry.registrar(forPlugin: "FLTFirebaseFirestorePlugin"))
+<<<<<<< HEAD
+=======
+  ConnectivityPlusPlugin.register(with: registry.registrar(forPlugin: "ConnectivityPlusPlugin"))
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
   FLTFirebaseAuthPlugin.register(with: registry.registrar(forPlugin: "FLTFirebaseAuthPlugin"))
   FLTFirebaseCorePlugin.register(with: registry.registrar(forPlugin: "FLTFirebaseCorePlugin"))
   GeolocatorPlugin.register(with: registry.registrar(forPlugin: "GeolocatorPlugin"))

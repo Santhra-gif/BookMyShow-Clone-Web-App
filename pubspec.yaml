@@ -43,6 +43,12 @@ dependencies:
   cached_network_image: ^3.4.1
   google_sign_in: ^6.2.2
   flutter_rating_bar: ^4.0.1
+<<<<<<< HEAD
+=======
+  intl: ^0.20.2
+  carousel_slider: ^5.0.0
+  connectivity_plus: ^6.1.3
+>>>>>>> 5c2625f (Initial commit for BookMyShow Clone Web App)
 
 dev_dependencies:
   flutter_test:
